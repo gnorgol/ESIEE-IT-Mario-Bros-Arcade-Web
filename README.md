@@ -1,6 +1,6 @@
 # ESIEE-IT-Mario-Bros-Arcade-Web
  
-Link to play : [https://gnorgol.github.io/Zuma-Project/](https://gnorgol.github.io/ESIEE-IT-Mario-Bros-Arcade-Web/)
+Link to play : https://gnorgol.github.io/ESIEE-IT-Mario-Bros-Arcade-Web/
 
 ## Created By
 <table>
